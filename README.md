@@ -1,2 +1,1 @@
-# 2-projeto-do-trimestre
-(Missão IA)
+# MISSÃO-IA
